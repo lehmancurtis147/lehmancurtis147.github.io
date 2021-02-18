@@ -1,0 +1,92 @@
+{
+    "latest": {
+        "U50A_ATT": [
+            {
+                "version": "1.1.0",
+                "variant": "teamwin",
+                "url": "/releases/files/U50A_ATT/twrp.zip"
+            },
+            {
+                "version": "1.1.0",
+                "variant": "orangefox",
+                "url": "/releases/files/U50A_ATT/orangefox.zip"
+            },
+            {
+                "version": "1.1.0",
+                "variant": "batik",
+                "url": "/releases/files/U50A_ATT/batik.zip"
+            },
+            {
+                "version": "1.1.0",
+                "variant": "redwolf",
+                "url": "/releases/files/U50A_ATT/redwolf.zip"
+            },
+            {
+                "version": "1.1.0",
+                "variant": "nusantana",
+                "url": "/releases/files/U50A_ATT/nusantara.zip"
+            },
+            {
+                "version": "1.1.0",
+                "variant": "dark",
+                "url": "/releases/files/U50A_ATT/dark.zip"
+            },
+            {
+                "version": "1.1.0",
+                "variant": "pitchblack",
+                "url": "/releases/files/U50A_ATT/pitchblack.zip"
+            },
+            {
+                "version": "1.1.0",
+                "variant": "skyhawk",
+                "url":"/releases/files/U50A_ATT/skyhawk.zip"
+            }
+        ],
+        "SIMBA6_CRICKET": [
+            {
+                "version": "1.1.0",
+                "variant": "teamwin",
+                "url": "/releases/files/"
+            },
+            {
+                "version": "1.1.0",
+                "variant": "orangefox",
+                "url": "/releases/files/"
+            },
+            {
+                "version": "1.1.0",
+                "variant": "pitchblack",
+                "url": "/releases/files/"
+            },
+            {
+                "version": "1.1.0",
+                "variant": "skyhawk",
+                "url":"/releases/files/"
+            }
+        ],
+        "U50A_PLUS_TF": [
+            {
+                "version": "1.1.0",
+                "variant": "teamwin",
+                "url": "/releases/files/"
+            },
+            {
+                "version": "1.1.0",
+                "variant": "orangefox",
+                "url": "/releases/files/"
+            }
+        ],
+        "Alcatel 1X": [
+            {
+                "version": "1.1.0",
+                "variant": "teamwin",
+                "url": "/releases/files/"
+            },
+            {
+                "version": "1.1.0",
+                "variant": "orangefox",
+                "url": "/releases/files/"
+            }
+        ]
+    }
+}
