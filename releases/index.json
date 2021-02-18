@@ -4,42 +4,42 @@
             {
                 "version": "1.1.0",
                 "variant": "teamwin",
-                "url": "/releases/files/U50A_ATT/twrp.zip"
+                "url": "/releases/files/U50A_ATT/TWRP.img"
             },
             {
                 "version": "1.1.0",
                 "variant": "orangefox",
-                "url": "/releases/files/U50A_ATT/orangefox.zip"
+                "url": "/releases/files/U50A_ATT/OrangeFox.img"
             },
             {
                 "version": "1.1.0",
                 "variant": "batik",
-                "url": "/releases/files/U50A_ATT/batik.zip"
+                "url": "/releases/files/U50A_ATT/Batik.img"
             },
             {
                 "version": "1.1.0",
                 "variant": "redwolf",
-                "url": "/releases/files/U50A_ATT/redwolf.zip"
+                "url": "/releases/files/U50A_ATT/RedWolf.img"
             },
             {
                 "version": "1.1.0",
                 "variant": "nusantana",
-                "url": "/releases/files/U50A_ATT/nusantara.zip"
+                "url": "/releases/files/U50A_ATT/Nusantara.img"
             },
             {
                 "version": "1.1.0",
                 "variant": "dark",
-                "url": "/releases/files/U50A_ATT/dark.zip"
+                "url": "/releases/files/U50A_ATT/Dark.img"
             },
             {
                 "version": "1.1.0",
                 "variant": "pitchblack",
-                "url": "/releases/files/U50A_ATT/pitchblack.zip"
+                "url": "/releases/files/U50A_ATT/PitchBlack.img"
             },
             {
                 "version": "1.1.0",
                 "variant": "skyhawk",
-                "url":"/releases/files/U50A_ATT/skyhawk.zip"
+                "url":"/releases/files/U50A_ATT/SkyHawk.img"
             }
         ],
         "SIMBA6_CRICKET": [
