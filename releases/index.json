@@ -1,0 +1,87 @@
+{
+    "latest": {
+        "U50A_ATT": [
+            {
+                "version": "3.1.1",
+                "variant": "teamWin",
+                "url": "/releases/files/recovery-twrp_tetra-custom_1.img"
+            },
+            {
+                "version": "3.1.1",
+                "variant": "orangeFox",
+                "url": "/releases/files/recovery-ofrp_tetra-custom_1.img"
+            },
+            {
+                "version": "3.1.1",
+                "release": "pitchBlack",
+                "url": "/releases/files/recovery-pbrp_tetra-custom_1.img"
+            },
+            {
+                "version": "3.1.1",
+                "release": "skyHawk",
+                "url":"/releases/files/recovery-shrp_tetra-custom_1.img"
+            },
+            {
+                "version": "3.1.1",
+                "release": "nusantara",
+                "url":"/releases/files/recovery-nsrp_tetra-custom_1.img"
+            },
+            {
+                "version": "3.1.1",
+                "release": "dark",
+                "url":"/releases/files/recovery-dsrp_tetra-custom_1.img"
+            },
+            {
+                "version": "3.1.1",
+                "variant": "batik",
+                "url": "/releases/files/recovery-bkrp_tetra-custom_1.img"
+            }
+        ],
+        "simba6_cricket": [
+            {
+                "version": "3.1.1",
+                "variant": "teamWin",
+                "url": "/releases/files/recovery-twrp_idol5-custom_1.img"
+            },
+            {
+                "version": "3.1.1",
+                "variant": "orangeFox",
+                "url": "/releases/files/recovery-ofrp_idol5-custom_1.img"
+            },
+            {
+                "version": "3.1.1",
+                "release": "pitchBlack",
+                "url": "/releases/files/recovery-pbrp_idol5-custom_1.img"
+            },
+            {
+                "version": "3.1.1",
+                "release": "skyHawk",
+                "url":"/releases/files/recovery-shrp_idol5-custom_1.img"
+            }
+        ],
+        "U50A_PLUS_TF": [
+            {
+                "version": "3.1.1",
+                "variant": "teamWin",
+                "url": "/releases/files/recovery-twrp_plustf-custom_1.img"
+            },
+            {
+                "version": "3.1.1",
+                "variant": "orangeFox",
+                "url": "/releases/files/recovery-ofrp_plustf-custom_1.img"
+            }
+        ],
+        "U50A_PLUS_ATT": [
+            {
+                "version": "3.1.1",
+                "variant": "teamWin",
+                "url": "/releases/files/recovery-twrp_plus-custom_1.img"
+            },
+            {
+                "version": "3.1.1",
+                "variant": "orangeFox",
+                "url": "/releases/files/recovery-ofrp_plus-custom_1.img"
+            }
+        ]
+    }
+}
